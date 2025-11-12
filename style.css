@@ -15,6 +15,7 @@ html,body{
   width:100vw;
   height:100vh;
   background-color:var(--Light-gray);
+  font-family: Arial, Times New Roman;
   /*overflow-x: hidden;*/
 }
 
@@ -248,7 +249,7 @@ margin:0px;
   border-radius:3px;
 }
 #price li h2{
-  font-size: 19px;
+  font-size: 13px;
   width:100%;
   background-color: var(--light-gray-border);
   margin:0px;
@@ -317,7 +318,7 @@ footer div p{
   width:100%;
   /*border:1px solid green;*/
   margin:0px;
-  font-size:13px;
+  font-size:10px;
   text-align: right;
   padding-right:3px;
 }
